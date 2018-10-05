@@ -1,7 +1,7 @@
 # SMCardView
 SMCardView is an Objective C subclass of UIView.
 
-![alt text](https://github.com/SihemMED/SMCardView/example.png)
+![alt text](https://github.com/SihemMED/SMCardView/blob/master/example.png)
 
 # Installation
 
@@ -16,7 +16,7 @@ In order to use SMCardView you need to add SMCardView.h and SMCardView.m to your
 3. In Identity inspector, replace the class from UIView with SMCardView.
 5. In the attributes inspector add its properties (shadowColor, cornerRadius, shadowOffsetWidth, shadowOffsetHeight and shadowOpacity).
 
-![alt text](https://github.com/SihemMED/SMCardView/cardView.png)
+![alt text](https://github.com/SihemMED/SMCardView/blob/master/cardView.png)
 
 
 ### Using Objective C Code:
